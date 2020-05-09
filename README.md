@@ -199,34 +199,56 @@ physician’s signature  : Every physician note and order should be signed and d
 Example case 1
 
 Union Hospital affiliated to Huazhong University of Science and Technology
-                                                                         Admission Record                                               0000337023
+                                                                        
+Admission Record                                               0000337023
 Department:  Respiratory Medicine Area: J17 Respiratory Medicine Bed No. 109031    Case No. 1565825
 Name: Hou Deguang         Gender: Male         Date of Birth: 15/9/ 1936     Age: 78         Nationality: China ID No. 420102193609150819          Ethnicity: Han              Occupation: other          Marital status: Married  Address: Nanchong，Sichuan               Tel No. 13871426922     Source of History: Patient herself              Reliability: Reliable  Admission Date & Time: 4/11/2014 14:36
+
 Chief Complaint:  Found pleural effusion for about 2 months.
+
 Present Illness: The patient received the chest CT scan in the Wuhan Traditional Medicine Hospital two months ago and found right-side pleural effusion, right-side pulmonary atelectasis. After that, he was hospitalized in the Endocrinology Dept of our hospital for poor management of blood glucose level. On this admission, He received the thoracocentesis, and the laboratory examination results indicated the large possibility of tuberculous pleural effusion. No special treatment was given at that time. The patient was aware of a sense of polypnea after long walk, without cough, expectoration, night sweats, chest distress, thoracalgia, wheeze, dyspnea and can lie down to sleep at night. The return-visit in the clinic at October 13th showed that there were a few pleural effusion on the right side and is hard to be localized. Now the patient came to our hospital for further treatment and was admitted as “Pleural effusion origin unknown”. Since the onset of the disease, the patient’s spirit, appetite and sleep are normal. Nocturia for 1 time per night. Stool are as usual. No obvious weight and physical strength change.
+
 Past History:   General Health Status: Relatively bad; Respiratory System: Chronic bronchitis for about 10 years; Circulatory System: Hypertension for about 20 years, highest reached 180/95mmHg, took Amlodipine orally 5mg qd, BP management is good. Diagnosed of coronary heart disease in 2007, underwent intracoronary stent implantation in 2008, 3 stents were implanted; Digestive Systems: None; Urinary System: Benign prostatic hyperplasia for about 5 years, Diabetic nephropathy for 3 years; Hematologic System: Thrombocytopenia for 2 years; Endocrine System: None. Nervous System:  Lacunar infarction in 2011; Motor System: None; Infection History: No infection of hepatitis and TB. Others: None special; Preventive Inoculation: In accordance with the stateplan; Operation History: underwent intracoronary stent implantation in 2008, 3 stents was implantated; Blood Transfusion History: None; Traumatic History: None; Allergic History: None; 
+
 Personal History: Habitual Residence: Hubei; Residential Environment: No exposure history to toxic substances and infected water; Travelling History: None; Smoking History: Smoking for about 40 years, 3 cigarettes per day. Quit smoking in 2008; Drinking History: Drinking for 40 years, 150g-350g per day, Quit drinking in 2008;
 Marital History: Married,
 Menstrual History:  Male 
+
 Family History: Father is deceased, mother is deceased. No other infective and hereditary diseases.
+
 Physical Examination
+
 Vital Signs: T:36.5℃. P:86 bpm, regular. R: 20min, regular. BP: 132/74 mmHg. Height: 164cm. Weight: 64kg.  Expression: Normal. Development: Well. Nutritional status: Fairly. Consciousness: Conscious. Spirit: Well. Gait: Normal. Position: Active. Coordination with Examination: Cooperative.
+
 Skin and Lymph Nodes: No jaundice. Some scattered scratch in hands and abdomen, No subcutaneous bleeding, edema, nodules or unusual pigmentation. Liver palm(-). Spider angioma(-). No swelling of general superficial lymph nodes.
+
 HEENT(Head, Eye, Ear, Nose, Throat): Normal skull. No baldness, no scars. Eyes: No ptosis. Conjuctiva normal. The pupils are round, symmetric and responsive to light and accommodation is normal. Ears: Externally normal. Canals clear. Drums normal. Noses: No abnormalities noted. Month and Throat: lips red, tongue red, no swelling of tonsils.
+
 Neck: Motion free. Thyroid is not enlarged. No abnormal pulsations. Trachea in middle. Carotid: Pulse is normal. Hepatojugular reflux sign(-). Vascular bruit: None.
+
 Chest and Lung: Normal contour. Breast normal. Inspection: respiratory movement symmetric and regular. Palpation: Normal and symmetric. No pleural friction fremitus. Percussion: both sides resonance. Auscultation: right-side breath sounds weaken, left-side is normal. No moist or dry rales. No pleural friction rubs.
+
 Heart: No protrusion of precordium. Normal apical impulse. No thrill. No enlarged cardiac dullness border. Heart rate: 88bpm, rhythm normal. No abnormal and extra cardiac sounds or cardiac murmurs. No peripheral vascular signs.
+
 Abdomen: Flat abdomen. No gastric or intestinal pattern. No visible peristalsis. Normal bowel sound. No rigidity. No mass palpable. No tenderness and rebound tenderness. Liver and spleen are not palpable. Kidneys are not palpable. No percussion tenderness over kidney regions. No shifting dullness.
+
 Rectum: Normal anus and perineum.
 Genitourinary System: Normal.
 Neural System: Normal.
 Extremities: No joint disease. Muscle strength normal. Pathological reflex (-).
+
 Specialty Examination: Right-side breath sounds weaken, left side normal. No moist or dry rales, No swelling of general superficial lymph nodes. No edema in neither lower extremities.
+
 Accessory Examination: Discharge record of Endocrinology Dept. of our hospital at September 2014; Clinic examination at October 13th: a few pleural effusion on the right side and is hard to be localized.
+
 History summary: 1. Hou Deguang, male, 78 yr.            2. Admitted for ”Found plaural effusion for about 2 months”.            3. T:36.5℃. P:86 bpm, regular. R: 20min, regular. BP: 132/74 mmHg. Expression: Normal. Spirit clear. Cardiac sounds normal, HR: 72 bpm, rhythm normal, No abnormal and extra cardiac sounds or cardiac murmurs. Right-side breath sounds weaken, left side normal. No moist or dry rales, no pleural friction rubs. Flat abdomen. No rigidity.            4. Special examination: Trachea in middle. Contour symmetric. Respiratory movement regular. Right-side breath sounds weaken, left side normal. No moist or dry rales, no pleural friction rubs.            5. Accessory Examination: Discharge record of Endocrinology Dept of our hospital at September 2014; Clinic examination at October 13th: a few pleural effusion on the right side and is hard to be localized.            6. Past history: Respiratory System: Chronic bronchitis for about 10 years; Circulatory System: Hypertension for about 20 years, highest reached 180/95mmHg, took Amlodipine orally 5mg qd, BP management is good. Diagnosed of coronary heart disease in 2007, underwent intracoronary stent implantation in 2008, 3 stents was implantated; Digestive Systems: None; Urinary System: Benign prostatic hyperplasia for about 5 years, Diabetic nephropathy for 3 years; Hematologic System: Thrombocytopenia for 2 years; Endocrine System: None. Nervous System:  Lacunar infarction in 2011; Motor System: None; Infection History: No infection of hepatitis and TB. Others: None special; Preventive Inoculation: In accordance with the stateplan; Operation History: underwent intracoronary stent implantation in 2008, 3 stents was implantated; Blood Transfusion History: None; Traumatic History: None; Allergic History: None; 
+
 Impression: 1. Right-side pleural effusion origin unknown: TB? Tumor?  2. II diabetes mellitus, Diabetic nephropathy  3. Hypertension III, high risk  4. Coronary heart disease, post-intracoronary stent implantation  5. Lacunar infarction  6. Thrombocytopenia  7. Benign prostatic hyperplasia 
+
 Recorder: Cheng Long Date & Time: 4/11/2014 16:14 Checker: Xu Juanjuan Date & Time: 5/11/2014 10:22 
+
 Example case 2
+
 Chief Complaint:
 "swelling of tongue and difficulty breathing and swallowing"
 
